@@ -52,7 +52,7 @@
 
   .one.column,
   .three.columns                  { width: 29%; margin-left:3%; margin-top: 1%; /*position: fixed; top: 23px;*/ }  
-  .six.columns                    { width: 53%; margin-left:2%; margin-top: 1%; }
+  .six.columns                    { width: 63%; margin-left:2%; margin-top: 1%; }
 
   .infinity_height { height: 128vh; }
 }
